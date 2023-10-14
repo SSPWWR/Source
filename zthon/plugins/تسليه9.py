@@ -23,7 +23,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "zed"
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**Tepthon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️\n⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️\n⚫️⚪️⚫️**{ALIVE_NAME}**⚫️⚪️⚫️\n⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️\n⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️\n",
    f"⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️\n⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️\n⚪️⚫️⚪️**{ALIVE_NAME}**⚪️⚫️⚪️\n⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️\n⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️⚫️⚪️\n",
@@ -227,7 +227,7 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤\n🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍\n🖤🤍🖤**{ALIVE_NAME}**🖤🤍🖤\n🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍\n🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤\n",
    f"🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍\n🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤\n🤍🖤🤍**{ALIVE_NAME}**🤍🖤🤍\n🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤\n🤍🖤🤍🖤🤍🖤🤍🖤🤍🖤🤍\n",
@@ -431,7 +431,7 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "💙💚💙💚💙💚💙💚💙💚💙\n💚💙💚💙💚💙💚💙💚💙💚\n💙💚💙**{ALIVE_NAME}**💙💚💙\n💚💙💚💙💚💙💚💙💚💙💚\n💙💚💙💚💙💚💙💚💙💚💙\n",
    f"💚💙💚💙💚💙💚💙💚💙💚\n💙💚💙💚💙💚💙💚💙💚💙\n💚💙💚**{ALIVE_NAME}**💚💙💚\n💙💚💙💚💙💚💙💚💙💚💙\n💚💙💚💙💚💙💚💙💚💙💚\n",
@@ -635,7 +635,7 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "💜🤎💜🤎💜🤎💜🤎💜🤎💜\n🤎💜🤎💜🤎💜🤎💜🤎💜🤎\n💜🤎💜**{ALIVE_NAME}**💜🤎💜\n🤎💜🤎💜🤎💜🤎💜🤎💜🤎\n💜🤎💜🤎💜🤎💜🤎💜🤎💜\n",
    f"🤎💜🤎💜🤎💜🤎💜🤎💜🤎\n💜🤎💜🤎💜🤎💜🤎💜🤎💜\n🤎💜🤎**{ALIVE_NAME}**🤎💜🤎\n💜🤎💜🤎💜🤎💜🤎💜🤎💜\n🤎💜🤎💜🤎💜🤎💜🤎💜🤎\n",
@@ -839,7 +839,7 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️\n🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍\n♥️🤍♥️**{ALIVE_NAME}**♥️🤍♥️\n🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍\n♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️\n",
    f"🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍\n♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️\n🤍♥️🤍**{ALIVE_NAME}**🤍♥️🤍\n♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️\n🤍♥️🤍♥️🤍♥️🤍♥️🤍♥️🤍\n",
@@ -1044,9 +1044,9 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
-   "🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎??🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
+   "🤎🤍🤎🤍🤎🤍🤎🤍??🤍🤎\n🤍🤎??🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
@@ -1107,7 +1107,7 @@ async def _(event):
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍??🤍??🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
-   f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
+   f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎??🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
@@ -1168,7 +1168,7 @@ async def _(event):
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎??🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
-   f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
+   f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍??**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
@@ -1229,7 +1229,7 @@ async def _(event):
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎??🤎??\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
-   f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍??🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
+   f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**??🤎🤍\n🤎🤍??🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
    f"🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍**{ALIVE_NAME}**🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n",
    f"🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎**{ALIVE_NAME}**🤎🤍🤎\n🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍\n🤎🤍🤎🤍🤎🤍🤎🤍🤎🤍🤎\n",
@@ -1249,7 +1249,7 @@ async def _(event):
 async def _(event):
     animation_interval = 0.5
     animation_ttl = range(192)
-    event = await edit_or_reply(event, "**ZedThon....**")
+    event = await edit_or_reply(event, "**PowerThon....**")
     animation_chars = [
    "💛🤍💛🤍💛🤍💛🤍💛🤍💛\n🤍💛🤍💛🤍💛🤍💛🤍💛🤍\n💛🤍💛**{ALIVE_NAME}**💛🤍💛\n🤍💛🤍💛🤍💛🤍💛🤍💛🤍\n💛🤍💛🤍💛🤍💛🤍💛🤍💛\n",
    f"🤍💛🤍💛🤍💛🤍💛🤍💛🤍\n💛🤍💛🤍💛🤍💛🤍💛🤍💛\n🤍💛🤍**{ALIVE_NAME}**🤍💛🤍\n💛🤍💛🤍💛🤍💛🤍💛🤍💛\n🤍💛🤍💛🤍💛🤍💛🤍💛🤍\n",
