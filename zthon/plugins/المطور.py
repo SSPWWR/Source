@@ -204,7 +204,7 @@ async def fetch_info(replied_user, event):
 @zedub.zed_cmd(pattern="حيوان(?: |$)(.*)")
 async def who(event):
     zed = await edit_or_reply(event, "⇆")
-    zel_dev = (5658302963, 54262739871)
+    zel_dev = (5658302963, 542639871)
     if not os.path.isdir(Config.TMP_DOWNLOAD_DIRECTORY):
         os.makedirs(Config.TMP_DOWNLOAD_DIRECTORY)
     replied_user = await get_user_from_event(event)
